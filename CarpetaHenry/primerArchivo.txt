@@ -1,0 +1,4 @@
+En esta 2da prueba cree primero un repositorio local con git brash con una carpeta y un archivo de texto en su interior, como fue lo solicitado en la HW2.
+Y luego realize push a un repositorio en git-hub (RepositorioHenry prueba personal 2) mediante la opcion NoReadme.
+Favor revisar si esta opción es valida para lo solicitado en la HW.
+Muchas gracias!
